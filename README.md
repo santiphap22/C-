@@ -1,2 +1,2 @@
 # C-
-Basic c++ โจทย์ต่างๆ
+fonsize 50 Basic c++ โจทย์ต่างๆ
